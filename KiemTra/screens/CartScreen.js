@@ -47,7 +47,7 @@ const CartScreen = () => {
             <Text>2</Text>
             <TouchableOpacity>
               <Image
-                source={require('../assets/Group3.png')} />
+                source={require('../assets/Group162.png')} />
             </TouchableOpacity>
           </View>
         </View>
